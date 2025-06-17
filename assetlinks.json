@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "org.multipaz.testapp",
+            "sha256_cert_fingerprints": [
+                "ED:54:D0:7E:39:D8:FD:8E:01:90:B7:BA:7D:7A:B7:83:73:34:BA:CA:F8:A2:B1:5A:CC:BD:99:A6:8F:94:D5:4A"
+            ]
+        }
+    }
+]
